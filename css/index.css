@@ -7,11 +7,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-.div-one{
-    align-items: center;
-    background-color: goldenrod;
-    color: white;
-}
-.heading{
 
+.top{
+    background-color: goldenrod;
+    text-align: center;
+    color: white;
+    padding: 10pxgit;
 }
